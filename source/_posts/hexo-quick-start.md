@@ -1,4 +1,7 @@
 
+---
+title: hexo && deploy to git
+---
 
 ***
 ## 快速安装hexo，并部署到github.io,这里针对是3.*版本
