@@ -1,6 +1,10 @@
 
 ---
 title: hexo && deploy to git
+tag: 
+-install
+-css
+comments: true
 ---
 
 ***
