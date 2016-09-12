@@ -1,9 +1,7 @@
 
 ---
 title: hexo && deploy to git
-tag: 
--install
--css
+tag: install
 comments: true
 ---
 
@@ -11,8 +9,8 @@ comments: true
 ## 快速安装hexo，并部署到github.io,这里针对是3.*版本
 ***
 * 1 确保本地已经有nodejs和git bash
-* 2 执行 ，npm install hexo --global 或者 npm i hexo -g\
-* 3 hexo init \<your-blog-name> 初始化一个blog项目的根文件夹，然后进去
+* 2 执行 ，npm install hexo --global 或者 npm i hexo -g
+* 3 hexo init \<your-blog-name\> 初始化一个blog项目的根文件夹，然后进去
 ```javascript
   hexo init my-blog
   cd my-blog
